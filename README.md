@@ -1,2 +1,2 @@
 # CSGO External Trigger
-Update offsets and it should work.
+Update offsets in main.cpp and it should work.
